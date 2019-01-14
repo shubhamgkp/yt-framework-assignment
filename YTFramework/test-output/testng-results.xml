@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31496" started-at="2019-01-13T18:55:26Z" finished-at="2019-01-13T18:55:57Z">
+  <suite name="Default suite" duration-ms="28434" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31496" started-at="2019-01-13T18:55:26Z" finished-at="2019-01-13T18:55:57Z">
-      <class name="org.testing.TestScripts.TC1">
-        <test-method status="PASS" signature="browserInitiate()[pri:0, instance:org.testing.TestScripts.TC1@29b5cd00]" name="browserInitiate" is-config="true" duration-ms="14551" started-at="2019-01-13T18:55:26Z" finished-at="2019-01-13T18:55:40Z">
+    <test name="Default test" duration-ms="28434" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:22Z">
+      <class name="org.testing.TestScripts.TC4">
+        <test-method status="PASS" signature="browserInitiate()[pri:0, instance:org.testing.TestScripts.TC4@cb51256]" name="browserInitiate" is-config="true" duration-ms="11319" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserInitiate -->
-        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:org.testing.TestScripts.TC1@29b5cd00]" name="firstTestCase" duration-ms="14541" started-at="2019-01-13T18:55:40Z" finished-at="2019-01-13T18:55:55Z">
+        <test-method status="PASS" signature="fourthTestCase()[pri:0, instance:org.testing.TestScripts.TC4@cb51256]" name="fourthTestCase" duration-ms="17095" started-at="2019-01-14T09:09:05Z" finished-at="2019-01-14T09:09:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- firstTestCase -->
-        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testing.TestScripts.TC1@29b5cd00]" name="browserClose" is-config="true" duration-ms="2391" started-at="2019-01-13T18:55:55Z" finished-at="2019-01-13T18:55:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- browserClose -->
-      </class> <!-- org.testing.TestScripts.TC1 -->
+        </test-method> <!-- fourthTestCase -->
+      </class> <!-- org.testing.TestScripts.TC4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
