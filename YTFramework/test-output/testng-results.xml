@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28434" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:22Z">
+  <suite name="Default suite" duration-ms="46668" started-at="2019-01-20T14:35:09Z" finished-at="2019-01-20T14:35:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28434" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:22Z">
+    <test name="Default test" duration-ms="46668" started-at="2019-01-20T14:35:09Z" finished-at="2019-01-20T14:35:56Z">
       <class name="org.testing.TestScripts.TC4">
-        <test-method status="PASS" signature="browserInitiate()[pri:0, instance:org.testing.TestScripts.TC4@cb51256]" name="browserInitiate" is-config="true" duration-ms="11319" started-at="2019-01-14T09:08:53Z" finished-at="2019-01-14T09:09:05Z">
+        <test-method status="PASS" signature="browserInitiate()[pri:0, instance:org.testing.TestScripts.TC4@45820e51]" name="browserInitiate" is-config="true" duration-ms="21518" started-at="2019-01-20T14:35:10Z" finished-at="2019-01-20T14:35:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserInitiate -->
-        <test-method status="PASS" signature="fourthTestCase()[pri:0, instance:org.testing.TestScripts.TC4@cb51256]" name="fourthTestCase" duration-ms="17095" started-at="2019-01-14T09:09:05Z" finished-at="2019-01-14T09:09:22Z">
+        <test-method status="PASS" signature="fourthTestCase()[pri:0, instance:org.testing.TestScripts.TC4@45820e51]" name="fourthTestCase" duration-ms="25115" started-at="2019-01-20T14:35:31Z" finished-at="2019-01-20T14:35:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fourthTestCase -->

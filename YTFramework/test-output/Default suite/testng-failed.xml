@@ -5,8 +5,8 @@
     <classes>
       <class name="org.testing.TestScripts.TC4">
         <methods>
-          <include name="browserInitiate"/>
           <include name="fourthTestCase"/>
+          <include name="browserInitiate"/>
         </methods>
       </class> <!-- org.testing.TestScripts.TC4 -->
     </classes>
