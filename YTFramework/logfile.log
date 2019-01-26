@@ -1,0 +1,41 @@
+2019-01-26 20:59:20,638 INFO  [TC1] Login successfully! 
+2019-01-26 20:59:30,520 INFO  [TC1] Clicking on Trending successfully! 
+2019-01-26 20:59:31,091 INFO  [TC1] Test case 1 passed successfully! 
+2019-01-26 21:01:42,437 INFO  [TC2] Login successfully! 
+2019-01-26 21:01:50,513 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 21:01:51,176 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 21:06:20,475 INFO  [TC1] Login successfully! 
+2019-01-26 21:07:46,241 INFO  [TC1] Login successfully! 
+2019-01-26 21:08:48,313 INFO  [TC1] Login successfully! 
+2019-01-26 21:09:47,919 INFO  [TC1] Login successfully! 
+2019-01-26 21:11:16,152 INFO  [TC1] Login successfully! 
+2019-01-26 21:12:36,445 INFO  [TC1] Login successfully! 
+2019-01-26 21:16:04,137 INFO  [TC1] Login successfully! 
+2019-01-26 21:17:16,512 INFO  [TC1] Login successfully! 
+2019-01-26 21:23:50,554 INFO  [TC1] Login successfully! 
+2019-01-26 21:25:15,888 INFO  [TC1] Login successfully! 
+2019-01-26 21:38:33,648 INFO  [TC1] Login successfully! 
+2019-01-26 21:40:14,727 INFO  [TC1] Login successfully! 
+2019-01-26 22:18:14,412 INFO  [TC1] Login successfully! 
+2019-01-26 22:23:50,290 INFO  [TC1] Login successfully! 
+2019-01-26 22:26:24,073 INFO  [TC1] Login successfully! 
+2019-01-26 23:09:55,788 INFO  [TC1] Login successfully! 
+2019-01-26 23:33:03,952 INFO  [TC2] Login successfully! 
+2019-01-26 23:33:13,214 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:33:13,964 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 23:43:42,203 INFO  [TC2] Login successfully! 
+2019-01-26 23:43:50,213 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:43:51,238 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 23:46:04,066 INFO  [TC2] Login successfully! 
+2019-01-26 23:46:14,249 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:46:14,939 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 23:47:32,271 INFO  [TC2] Login successfully! 
+2019-01-26 23:47:41,804 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:47:42,439 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 23:50:07,615 INFO  [TC2] Login successfully! 
+2019-01-26 23:50:15,125 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:50:25,747 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-26 23:51:38,915 INFO  [TC2] Login successfully! 
+2019-01-26 23:51:48,405 INFO  [TC2] Clicking on subscriptions successfully! 
+2019-01-26 23:51:59,034 INFO  [TC2] Test case 2 passed successfully! 
+2019-01-27 00:17:49,721 INFO  [TC3] Login successfully! 

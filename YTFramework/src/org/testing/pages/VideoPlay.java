@@ -14,8 +14,7 @@ public class VideoPlay {
 	WebDriver driver;
 	Properties prop;
 	public static WebDriverWait wait;
-	public static int num=10;
-	
+		
 	public VideoPlay(WebDriver driver, Properties prop) {
 		this.driver=driver;
 		this.prop=prop;				
