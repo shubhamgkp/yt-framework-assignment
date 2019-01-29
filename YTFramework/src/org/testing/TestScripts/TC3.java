@@ -25,7 +25,7 @@ public class TC3 extends Base{
 			driver.findElement(By.xpath("//button[@id='avatar-btn']")).click();
 			
 			String verifyEmail=driver.findElement(By.xpath("//yt-formatted-string[text()='shubhamcert@gmail.com']")).getText();
-			Assert.assertEquals(verifyEmail, "shubhamcer@gmail.com");
+			Assert.assertEquals(verifyEmail, "shubhamcert@gmail.com");
 			
 			VideoPlay vidPlay = new VideoPlay(driver, prop);
 			vidPlay.playVideo();

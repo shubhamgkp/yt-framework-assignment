@@ -39,3 +39,6 @@
 2019-01-26 23:51:48,405 INFO  [TC2] Clicking on subscriptions successfully! 
 2019-01-26 23:51:59,034 INFO  [TC2] Test case 2 passed successfully! 
 2019-01-27 00:17:49,721 INFO  [TC3] Login successfully! 
+2019-01-27 00:27:59,844 INFO  [TC3] Login successfully! 
+2019-01-27 00:28:08,903 INFO  [TC3] Clicking on video play successfully! 
+2019-01-27 00:28:10,881 INFO  [TC3] Test case 3 passed successfully! 
