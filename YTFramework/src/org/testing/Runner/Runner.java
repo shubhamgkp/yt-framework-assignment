@@ -36,11 +36,13 @@ public class Runner {
 			XSSFRow row = sheet.getRow(i);
 			XSSFCell cell = row.getCell(4);
 			System.out.println(cell);
-			if(cell.getStringCellValue()=="Y"){
+			if(cell.getStringCellValue().equals("Y")){
 				
 				String packageName=row.getCell(2).getStringCellValue();
-				String className=row.getCell(2).getStringCellValue();
+				System.out.println(packageName);
+				String className=row.getCell(3).getStringCellValue();
 				String packClassName=packageName+"."+className;
+				
 				
 				XmlClass testClass = new XmlClass(packClassName);	//xmlClass
 				classlist.add(testClass);				
