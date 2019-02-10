@@ -16,12 +16,13 @@ public class TC1 extends Base {
 	public void firstTestCase() throws IOException{		
 
 		try{
-			String expectedURL="https://www.youtube.com/feed/trendng";
+			String expectedURL="https://www.youtube.com/feed/trending";
 			
 			Login login=new Login(driver, prop);
 			login.signin("shubhamcert@gmail.com", "Skv@2580");
 			Logs.takeLog("TC1", "Login successfully!");						
 			driver.findElement(By.xpath(prop.getProperty("Trending"))).click();
+			Thread.sleep(5000);
 			Assert.assertEquals(driver.getCurrentUrl(), expectedURL, "Actual URL not matched!");
 			Logs.takeLog("TC1", "Clicking on Trending successfully!");
 			ScreenShot.takeSceenShot(driver, "E:/screenshot1.jpg");

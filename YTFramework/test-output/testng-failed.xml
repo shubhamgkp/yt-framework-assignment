@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite1]">
-  <test thread-count="5" name="Command line test 5e4d5ea6-723e-46e3-98f2-760d29134c7e(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="org.testing.TestScripts.TC1">
         <methods>
@@ -10,5 +10,5 @@
         </methods>
       </class> <!-- org.testing.TestScripts.TC1 -->
     </classes>
-  </test> <!-- Command line test 5e4d5ea6-723e-46e3-98f2-760d29134c7e(failed) -->
-</suite> <!-- Failed suite [Suite1] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

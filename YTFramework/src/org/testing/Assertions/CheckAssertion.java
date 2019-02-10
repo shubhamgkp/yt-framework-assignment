@@ -1,7 +1,5 @@
 package org.testing.Assertions;
 
-import junit.framework.Assert;
-
 public class CheckAssertion {
 	
 	public static void compare(String expected, String actual){
