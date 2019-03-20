@@ -8,7 +8,7 @@ public class Logs {
 	public static void takeLog(String classname, String message){
 		
 		Logger log=Logger.getLogger(classname);
-		DOMConfigurator.configure("C:/Users/Shubham Verma/yt-framework/YTFramework/logs.xml");
+		DOMConfigurator.configure("./logs.xml");
 		log.info(message);
 	}
 }
